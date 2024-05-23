@@ -1,0 +1,3 @@
+[submodule "Tutorial1SubModule1"]
+	path = Tutorial1SubModule1
+	url = https://github.com/BC210200252/Tutorial1SubModule1.git
